@@ -6,3 +6,4 @@ sqlparse==0.4.1
 typing-extensions==3.7.4.3
 django-crispy-forms==1.9.2
 django-allauth==0.42.0
+environs[django]==8.0.0
